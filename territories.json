@@ -9,17 +9,13 @@
         "Storage": [
             "Emeralds",
             "Ore",
-            "Fish",
-            "Maro Peaks",
-            "Wood",
-            "Crops",
-            "Olux",
-            "Plains",
-            "Gelibord"
+            "Fish"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
-    "Maro Peaks  ": {
+    "Maro Peaks": {
         "Routes": [
             "Skiens Island",
             "Tree Island"
@@ -27,10 +23,19 @@
         "Resources": [
             "Ore"
         ],
-        "Storage": [],
-        "Emeralds": true
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops",
+            "Light Realm Mushrooms"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
-    "Plains      ": {
+    "Plains": {
         "Routes": [
             "Nivla Woods Entrance",
             "North Nivla Woods",
@@ -38,10 +43,16 @@
             "Maltic Plains"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
-        "Storage": [],
-        "Emeralds": true
+        "Storage": [
+            "Emeralds",
+            "Wood",
+            "Crops"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Path To Thanos": {
         "Routes": [
@@ -56,12 +67,11 @@
             "Ore",
             "Fish",
             "Light Realm East Lower",
-            "Light Realm Mushrooms",
-            "Lexdale",
-            "Wood",
-            "Crops"
+            "Light Realm Mushrooms"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Durum Isles Upper": {
         "Routes": [
@@ -71,7 +81,7 @@
             "Selchar"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -80,7 +90,9 @@
             "Crops",
             "Light Realm East"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Savannah West Lower": {
         "Routes": [
@@ -89,15 +101,17 @@
             "Savannah West Upper"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
-    "Selchar     ": {
+    "Selchar": {
         "Routes": [
             "Durum Isles Upper",
             "Durum Isles Lower",
@@ -106,10 +120,18 @@
             "Rooster Island"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
-        "Storage": [],
-        "Emeralds": true
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": true,
+        "DoubleResource": false
     },
     "Llevigar Plains West Lower": {
         "Routes": [
@@ -125,7 +147,9 @@
             "Emeralds",
             "Ore"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Nesaak Plains South East": {
         "Routes": [
@@ -138,17 +162,17 @@
         ],
         "Storage": [
             "Emeralds",
-            "Wood",
-            "Royal Gate",
-            "Fish"
+            "Wood"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Llevigar Plains East Lower": {
         "Routes": [
+            "Llevigar Plains West Lower",
             "Llevigar Farm Plains East",
             "Orc Lake",
-            "Llevigar Plains West Lower",
             "Llevigar Plains East Upper"
         ],
         "Resources": [
@@ -156,14 +180,11 @@
         ],
         "Storage": [
             "Emeralds",
-            "Ore",
-            "Plains",
-            "Wood",
-            "Crops",
-            "Olux",
-            "Fish"
+            "Ore"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Kander Mines": {
         "Routes": [
@@ -177,11 +198,15 @@
         ],
         "Storage": [
             "Emeralds",
-            "Wood"
+            "Wood",
+            "Swamp Dark Forest Transition Upper",
+            "Ore"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
-    "Swamp Dark Forest Transition Upper": {
+    "Swamp Dark Forest Transition Upper�a]": {
         "Routes": [
             "Swamp Dark Forest Transition Mid",
             "Taproot Descent",
@@ -190,11 +215,10 @@
         "Resources": [
             "Ore"
         ],
-        "Storage": [
-            "Emeralds",
-            "Ore"
-        ],
-        "Emeralds": true
+        "Storage": [],
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Mine Base Plains": {
         "Routes": [
@@ -205,7 +229,7 @@
             "Plains Lake"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -214,7 +238,9 @@
             "Fish",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Detlas Savannah Transition": {
         "Routes": [
@@ -224,7 +250,7 @@
             "Savannah West Lower"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -233,7 +259,9 @@
             "Fish",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Fortress South": {
         "Routes": [
@@ -252,7 +280,9 @@
             "Fish",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Aldorei Lowlands": {
         "Routes": [
@@ -268,7 +298,9 @@
             "Wood",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Llevigar Gate East": {
         "Routes": [
@@ -282,12 +314,11 @@
         ],
         "Storage": [
             "Emeralds",
-            "Ore",
-            "Nesaak Plains Lower North West",
-            "Wood",
-            "Spiraling Trees"
+            "Ore"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Viscera Pits West": {
         "Routes": [
@@ -303,7 +334,9 @@
             "Emeralds",
             "Wood"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Sanctuary Bridge": {
         "Routes": [
@@ -311,14 +344,16 @@
             "Nesaak Plains Upper North West"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
             "Wood",
             "Fish"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Desert West Upper": {
         "Routes": [
@@ -326,18 +361,15 @@
             "Almuj City"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
-            "Crops",
-            "Mage Island",
-            "Ore",
-            "Fish",
-            "Ahmsord",
-            "Wood"
+            "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Maltic Plains": {
         "Routes": [
@@ -348,17 +380,16 @@
             "Plains"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
             "Wood",
-            "Crops",
-            "Gert Camp",
-            "Ore",
-            "Fish"
+            "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Savannah West Upper": {
         "Routes": [
@@ -368,7 +399,7 @@
             "Savannah East Upper"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -377,9 +408,11 @@
             "Fish",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
-    "Mage Island ": {
+    "Mage Island": {
         "Routes": [
             "Durum Isles East",
             "Durum Isles Upper",
@@ -387,12 +420,20 @@
             "Santa's Hideout"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
-        "Storage": [],
-        "Emeralds": true
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Fish",
+            "Crops",
+            "Swamp Dark Forest Transition Upper"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
-    "Ahmsord     ": {
+    "Ahmsord": {
         "Routes": [
             "Path to Ahmsord Lower",
             "Temple Island",
@@ -402,8 +443,16 @@
         "Resources": [
             "Wood"
         ],
-        "Storage": [],
-        "Emeralds": true
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": true,
+        "DoubleResource": false
     },
     "Swamp Mountain Transition Mid": {
         "Routes": [
@@ -412,17 +461,17 @@
             "Swamp West Upper"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
-            "Fish",
-            "Bob's Tomb",
-            "Wood"
+            "Fish"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
-    "Bob's Tomb  ": {
+    "Bob's Tomb": {
         "Routes": [
             "Nesaak Village",
             "Nesaak Plains South East",
@@ -431,8 +480,13 @@
         "Resources": [
             "Wood"
         ],
-        "Storage": [],
-        "Emeralds": true
+        "Storage": [
+            "Emeralds",
+            "Wood"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Fallen Factory": {
         "Routes": [
@@ -442,13 +496,15 @@
             "Ruined Houses"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
             "Fish"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Canyon Valley South": {
         "Routes": [
@@ -462,12 +518,11 @@
         "Storage": [
             "Emeralds",
             "Ore",
-            "Fish",
-            "Lutho",
-            "Wood",
-            "Crops"
+            "Fish"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Swamp East Lower": {
         "Routes": [
@@ -481,13 +536,11 @@
         ],
         "Storage": [
             "Emeralds",
-            "Ore",
-            "Corkus City",
-            "Wood",
-            "Fish",
-            "Crops"
+            "Ore"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Path to Light": {
         "Routes": [
@@ -495,12 +548,14 @@
             "Otherwordly Monolith"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
-    "Corkus City ": {
+    "Corkus City": {
         "Routes": [
             "Corkus Forest South",
             "Corkus Forest North",
@@ -509,10 +564,18 @@
             "Corkus Countryside"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
-        "Storage": [],
-        "Emeralds": true
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": true,
+        "DoubleResource": false
     },
     "Canyon Path North Mid": {
         "Routes": [
@@ -529,7 +592,9 @@
             "Ore",
             "Fish"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "The Silent Road": {
         "Routes": [
@@ -537,19 +602,18 @@
             "The Broken Road"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
             "Ore",
             "Wood",
             "Fish",
-            "Crops",
-            "Corkus City",
-            "Maro Peaks",
-            "Light Realm Mushrooms"
+            "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "City of Troms": {
         "Routes": [
@@ -567,7 +631,9 @@
             "Fish",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": true,
+        "DoubleResource": false
     },
     "Gylia Lake South West": {
         "Routes": [
@@ -576,7 +642,7 @@
             "Gylia Lake South East"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
@@ -585,9 +651,11 @@
             "Fish",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
-    "Primal Fen  ": {
+    "Primal Fen": {
         "Routes": [
             "Field of Life"
         ],
@@ -595,7 +663,9 @@
             "Ore"
         ],
         "Storage": [],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Canyon Mountain East": {
         "Routes": [
@@ -610,12 +680,13 @@
             "Ore",
             "Wood",
             "Fish",
-            "Crops",
-            "Plains Lake"
+            "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": true
     },
-    "Dark Forest Cinfras Transition  ": {
+    "Dark Forest Cinfras Transition": {
         "Routes": [
             "Gylia Lake South West",
             "Cinfras Outskirts",
@@ -624,8 +695,16 @@
         "Resources": [
             "Wood"
         ],
-        "Storage": [],
-        "Emeralds": true
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Cliffside Lake": {
         "Routes": [
@@ -633,7 +712,7 @@
             "Cliffside Passage"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
@@ -642,7 +721,9 @@
             "Fish",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Nemract Plains West": {
         "Routes": [
@@ -652,7 +733,7 @@
             "Arachnid Route"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -661,7 +742,9 @@
             "Fish",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Twain Mansion": {
         "Routes": [
@@ -670,15 +753,17 @@
         "Resources": [
             "Ore",
             "Wood",
-            " Fish",
-            " Crops"
+            "Fish",
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
             "Wood",
             "Fish"
         ],
-        "Emeralds": false
+        "Emeralds": false,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Savannah East Lower": {
         "Routes": [
@@ -691,18 +776,13 @@
         ],
         "Storage": [
             "Emeralds",
-            "Crops",
-            "Worm Tunnel",
-            "Ore",
-            "Wood",
-            "Fish",
-            "Swamp Lower",
-            "Bremminglar",
-            "Thanos"
+            "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
-    "Swamp Lower ": {
+    "Swamp Lower": {
         "Routes": [
             "Swamp Dark Forest Transition Lower",
             "Swamp Mountain Base",
@@ -712,10 +792,18 @@
         "Resources": [
             "Wood"
         ],
-        "Storage": [],
-        "Emeralds": true
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
-    "Bremminglar ": {
+    "Bremminglar": {
         "Routes": [
             "Savannah West Upper",
             "Lion Lair"
@@ -723,8 +811,13 @@
         "Resources": [
             "Ore"
         ],
-        "Storage": [],
-        "Emeralds": true
+        "Storage": [
+            "Emeralds",
+            "Crops"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Road To Light Forest": {
         "Routes": [
@@ -740,10 +833,11 @@
             "Ore",
             "Wood",
             "Fish",
-            "Crops",
-            "Detlas"
+            "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Swamp East Mid-Upper": {
         "Routes": [
@@ -759,7 +853,9 @@
             "Emeralds",
             "Ore"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Thanos Valley West": {
         "Routes": [
@@ -771,12 +867,11 @@
         "Storage": [
             "Emeralds",
             "Ore",
-            "Fish",
-            "Mantis Nest",
-            "Wood",
-            "Crops"
+            "Fish"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Llevigar Entrance": {
         "Routes": [
@@ -792,7 +887,9 @@
             "Fish",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Volcanic Slope": {
         "Routes": [
@@ -802,14 +899,16 @@
         "Resources": [
             "Ore",
             "Wood",
-            " Fish",
-            " Crops"
+            "Fish",
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
             "Ore"
         ],
-        "Emeralds": false
+        "Emeralds": false,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Durum Isles Center": {
         "Routes": [
@@ -819,13 +918,15 @@
             "Durum Isles Lower"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Canyon Waterfall North": {
         "Routes": [
@@ -838,7 +939,9 @@
             "Emeralds",
             "Ore"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Gelibord Corrupted Farm": {
         "Routes": [
@@ -848,29 +951,38 @@
             "Taproot Descent"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
             "Ore",
             "Wood",
             "Fish",
-            "Crops",
-            "Pirate Town"
+            "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
-    "Pirate Town ": {
+    "Pirate Town": {
         "Routes": [
             "Bloody Beach",
             "Zhight Island",
             "Lost Atoll"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
-        "Storage": [],
-        "Emeralds": true
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Fungal Grove": {
         "Routes": [
@@ -885,15 +997,13 @@
         ],
         "Storage": [
             "Emeralds",
-            "Wood",
-            "Lexdale",
-            "Ore",
-            "Fish",
-            "Crops"
+            "Wood"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
-    "Orc Road    ": {
+    "Orc Road": {
         "Routes": [
             "Llevigar Farm Plains East",
             "Orc Lake",
@@ -902,8 +1012,14 @@
         "Resources": [
             "Ore"
         ],
-        "Storage": [],
-        "Emeralds": true
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Crops"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Llevigar Farm Plains East": {
         "Routes": [
@@ -913,13 +1029,15 @@
             "Orc Road"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
             "Ore"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Old Crossroads North": {
         "Routes": [
@@ -929,26 +1047,30 @@
             "Path to Talor"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
             "Wood"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Corkus Docks": {
         "Routes": [
             "Corkus Mountain"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
             "Fish"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Canyon Upper North West": {
         "Routes": [
@@ -963,10 +1085,11 @@
             "Ore",
             "Wood",
             "Fish",
-            "Crops",
-            "Eltom"
+            "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Ahmsord Outskirts": {
         "Routes": [
@@ -985,7 +1108,9 @@
             "Fish",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Desert West Lower": {
         "Routes": [
@@ -994,13 +1119,15 @@
             "Desert Mid-Lower"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Swamp West Mid": {
         "Routes": [
@@ -1015,7 +1142,9 @@
             "Emeralds",
             "Ore"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Krolton's Cave": {
         "Routes": [
@@ -1025,7 +1154,7 @@
             "Canyon Mountain South"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
@@ -1034,17 +1163,24 @@
             "Fish",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
-    "Royal Gate  ": {
+    "Royal Gate": {
         "Routes": [
             "Phinas Farm"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
-        "Storage": [],
-        "Emeralds": true
+        "Storage": [
+            "Emeralds",
+            "Fish"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": true
     },
     "Paths of Sludge": {
         "Routes": [
@@ -1052,19 +1188,20 @@
             "Toxic Drip"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
             "Ore",
             "Wood",
             "Fish",
-            "Crops",
-            "Swamp Lower"
+            "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
-    "Nesaak Plains Lower North West  ": {
+    "Nesaak Plains Lower North West": {
         "Routes": [
             "Nesaak Plains Upper North West",
             "Nesaak Plains Mid North West",
@@ -1074,8 +1211,14 @@
         "Resources": [
             "Wood"
         ],
-        "Storage": [],
-        "Emeralds": true
+        "Storage": [
+            "Emeralds",
+            "Wood",
+            "Spiraling Trees"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Lone Farmstead": {
         "Routes": [
@@ -1090,7 +1233,9 @@
             "Emeralds",
             "Wood"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Road to Elkurn": {
         "Routes": [
@@ -1099,18 +1244,17 @@
             "South Nivla Woods"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
             "Wood",
             "Crops",
-            "Cinfras",
-            "Ore",
-            "Fish",
             "Spiraling Trees"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Rooster Island": {
         "Routes": [
@@ -1120,7 +1264,7 @@
             "Selchar"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
@@ -1129,7 +1273,9 @@
             "Fish",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Dernel Jungle Mid": {
         "Routes": [
@@ -1143,7 +1289,9 @@
             "Emeralds",
             "Wood"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Swamp Plains Basin": {
         "Routes": [
@@ -1159,20 +1307,29 @@
             "Emeralds",
             "Ore"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
-    "Final Step  ": {
+    "Final Step": {
         "Routes": [
             "Bizarre Passage",
             "Gateway to Nothing"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
-        "Storage": [],
-        "Emeralds": true
+        "Storage": [
+            "Emeralds",
+            "Wood",
+            "Fish",
+            "Crops"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
-    "Tree Island ": {
+    "Tree Island": {
         "Routes": [
             "Volcano Upper",
             "Lost Atoll"
@@ -1180,8 +1337,17 @@
         "Resources": [
             "Wood"
         ],
-        "Storage": [],
-        "Emeralds": true
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops",
+            "Light Realm East Mid-Upper"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Canyon Dropoff": {
         "Routes": [
@@ -1193,15 +1359,11 @@
         ],
         "Storage": [
             "Emeralds",
-            "Ore",
-            "Final Step",
-            "Wood",
-            "Fish",
-            "Crops",
-            "Tree Island",
-            "Light Realm East Mid-Upper"
+            "Ore"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Ancient Nemract": {
         "Routes": [
@@ -1212,14 +1374,16 @@
             "Detlas Trail West Plains"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
             "Wood",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Aldorei Valley Mid": {
         "Routes": [
@@ -1227,7 +1391,7 @@
             "Aldorei Valley Lower"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -1236,7 +1400,9 @@
             "Fish",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Cinfras County Upper": {
         "Routes": [
@@ -1252,10 +1418,11 @@
             "Ore",
             "Wood",
             "Fish",
-            "Crops",
-            "Katoa Ranch"
+            "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "South Farmers Valley": {
         "Routes": [
@@ -1266,25 +1433,33 @@
             "Plains"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
             "Wood",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
-    "Katoa Ranch ": {
+    "Katoa Ranch": {
         "Routes": [
             "Ragni North Entrance",
             "Ragni North Suburbs"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
-        "Storage": [],
-        "Emeralds": true
+        "Storage": [
+            "Emeralds",
+            "Wood",
+            "Crops"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": true
     },
     "Decayed Basin": {
         "Routes": [
@@ -1300,7 +1475,9 @@
             "Emeralds",
             "Wood"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Ragni North Suburbs": {
         "Routes": [
@@ -1309,14 +1486,16 @@
             "Ragni Plains"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
             "Wood",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Durum Isles Lower": {
         "Routes": [
@@ -1329,12 +1508,11 @@
         ],
         "Storage": [
             "Emeralds",
-            "Crops",
-            "Mage Island",
-            "Ore",
-            "Fish"
+            "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Orc Battlegrounds": {
         "Routes": [
@@ -1349,12 +1527,13 @@
             "Ore",
             "Wood",
             "Fish",
-            "Crops",
-            "Nivla Woods"
+            "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
-    "Thanos      ": {
+    "Thanos": {
         "Routes": [
             "Gylia Lake South East",
             "Path To Thanos",
@@ -1364,8 +1543,13 @@
         "Resources": [
             "Ore"
         ],
-        "Storage": [],
-        "Emeralds": true
+        "Storage": [
+            "Emeralds",
+            "Ore"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": true,
+        "DoubleResource": false
     },
     "Path To Ozoth's Spire Lower": {
         "Routes": [
@@ -1377,24 +1561,30 @@
         ],
         "Storage": [
             "Emeralds",
-            "Ore",
-            "Worm Tunnel",
-            "Wood",
-            "Fish",
-            "Crops"
+            "Ore"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
-    "Worm Tunnel ": {
+    "Worm Tunnel": {
         "Routes": [
             "The Broken Road",
             "Grey Ruins"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
-        "Storage": [],
-        "Emeralds": true
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Cinfras County Mid-Lower": {
         "Routes": [
@@ -1409,7 +1599,9 @@
             "Emeralds",
             "Wood"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Tower of Ascension": {
         "Routes": [
@@ -1418,14 +1610,16 @@
         "Resources": [
             "Ore",
             "Wood",
-            " Fish",
-            " Crops"
+            "Fish",
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
             "Wood"
         ],
-        "Emeralds": false
+        "Emeralds": false,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Skiens Island": {
         "Routes": [
@@ -1444,7 +1638,9 @@
             "Fish",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Active Volcano": {
         "Routes": [
@@ -1453,13 +1649,15 @@
             "Volcanic Slope"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
             "Ore"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Cliffside Waterfall": {
         "Routes": [
@@ -1468,15 +1666,17 @@
         "Resources": [
             "Ore",
             "Wood",
-            " Fish",
-            " Crops"
+            "Fish",
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
             "Ore",
             "Fish"
         ],
-        "Emeralds": false
+        "Emeralds": false,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Valley of the Lost": {
         "Routes": [
@@ -1492,21 +1692,23 @@
             "Ore",
             "Wood",
             "Fish",
-            "Crops",
-            "Frozen Fort",
-            "Final Step"
+            "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
-    "Frozen Fort ": {
+    "Frozen Fort": {
         "Routes": [
             "Sky Falls"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Path to Cinfras": {
         "Routes": [
@@ -1522,10 +1724,11 @@
             "Wood",
             "Fish",
             "Crops",
-            "Light Realm Entrance Upper",
-            "Tree Island"
+            "Light Realm Entrance Upper"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Temple Island": {
         "Routes": [
@@ -1545,7 +1748,9 @@
             "Fish",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Nodguj Nation": {
         "Routes": [
@@ -1556,18 +1761,18 @@
             "Santa's Hideout"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
             "Ore",
             "Wood",
             "Fish",
-            "Crops",
-            "Icy Descent",
-            "Orc Road"
+            "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Arachnid Route": {
         "Routes": [
@@ -1583,7 +1788,9 @@
             "Wood",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Nesaak Bridge Transition": {
         "Routes": [
@@ -1597,7 +1804,9 @@
             "Emeralds",
             "Wood"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Cinfras's Small Farm": {
         "Routes": [
@@ -1614,10 +1823,11 @@
             "Ore",
             "Wood",
             "Fish",
-            "Crops",
-            "Dark Forest Cinfras Transition"
+            "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "South Nivla Woods": {
         "Routes": [
@@ -1635,7 +1845,9 @@
             "Wood",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Heart of Decay": {
         "Routes": [
@@ -1650,7 +1862,9 @@
             "Emeralds",
             "Wood"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Regular Island": {
         "Routes": [
@@ -1665,7 +1879,9 @@
             "Emeralds",
             "Fish"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Quartz Mines South West": {
         "Routes": [
@@ -1683,7 +1899,9 @@
             "Fish",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Pigmen Ravines": {
         "Routes": [
@@ -1698,7 +1916,9 @@
             "Ore",
             "Wood"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Swamp West Mid-Upper": {
         "Routes": [
@@ -1709,14 +1929,16 @@
         "Resources": [
             "Ore",
             "Wood",
-            " Fish",
-            " Crops"
+            "Fish",
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
             "Ore"
         ],
-        "Emeralds": false
+        "Emeralds": false,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Rymek West Mid": {
         "Routes": [
@@ -1727,39 +1949,46 @@
         "Resources": [
             "Ore",
             "Wood",
-            " Fish",
-            " Crops"
+            "Fish",
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
             "Crops"
         ],
-        "Emeralds": false
+        "Emeralds": false,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Avos Workshop": {
         "Routes": [
             "Avos Temple"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
-            "Fish",
-            "Nesaak Plains Upper North West",
-            "Wood"
+            "Fish"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
-    "Swamp Mountain Transition Lower ": {
+    "Swamp Mountain Transition Lower": {
         "Routes": [
             "Swamp Mountain Transition Mid"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
-        "Storage": [],
-        "Emeralds": true
+        "Storage": [
+            "Emeralds",
+            "Fish"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Crater Descent": {
         "Routes": [
@@ -1775,10 +2004,11 @@
             "Ore",
             "Wood",
             "Fish",
-            "Crops",
-            "Royal Gate"
+            "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Jofash Docks": {
         "Routes": [
@@ -1787,13 +2017,15 @@
             "Dead Island North East"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
             "Fish"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Bandit Camp Exit": {
         "Routes": [
@@ -1807,7 +2039,9 @@
             "Emeralds",
             "Ore"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Ragni Main Entrance": {
         "Routes": [
@@ -1816,16 +2050,15 @@
             "Emerald Trail"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
-            "Crops",
-            "Time Valley",
-            "Wood",
-            "Fish"
+            "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Canyon Fortress": {
         "Routes": [
@@ -1835,16 +2068,16 @@
         "Resources": [
             "Ore",
             "Wood",
-            " Fish",
-            " Crops"
+            "Fish",
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
-            "Ore",
-            "Lost Atoll",
-            "Fish"
+            "Ore"
         ],
-        "Emeralds": false
+        "Emeralds": false,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Llevigar Farm": {
         "Routes": [
@@ -1856,17 +2089,18 @@
             "Loamsprout Camp"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
             "Ore",
             "Wood",
             "Fish",
-            "Crops",
-            "Nesaak Plains Lower North West"
+            "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Detlas Suburbs": {
         "Routes": [
@@ -1876,7 +2110,7 @@
             "Detlas Far Suburbs"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -1885,7 +2119,9 @@
             "Fish",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Corkus Sea Cove": {
         "Routes": [
@@ -1895,19 +2131,17 @@
             "Road To Mine"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
-            "Fish",
-            "Iron Road",
-            "Ore",
-            "Wood",
-            "Crops"
+            "Fish"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
-    "Iron Road   ": {
+    "Iron Road": {
         "Routes": [
             "Goblin Plains West",
             "Meteor Crater",
@@ -1917,8 +2151,16 @@
         "Resources": [
             "Ore"
         ],
-        "Storage": [],
-        "Emeralds": true
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Thesead Suburbs": {
         "Routes": [
@@ -1928,17 +2170,18 @@
             "Thesead"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
             "Ore",
             "Wood",
             "Fish",
-            "Crops",
-            "Frozen Fort"
+            "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Burning Farm": {
         "Routes": [
@@ -1951,12 +2194,11 @@
         "Storage": [
             "Emeralds",
             "Ore",
-            "Fish",
-            "Ahmsord",
-            "Wood",
-            "Crops"
+            "Fish"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Desert Mid-Upper": {
         "Routes": [
@@ -1966,13 +2208,15 @@
             "Desert East Mid"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Forgotten Town": {
         "Routes": [
@@ -1980,7 +2224,7 @@
             "Grey Ruins"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -1990,7 +2234,9 @@
             "Crops",
             "Light Realm East"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Nemract Quarry": {
         "Routes": [
@@ -1999,13 +2245,15 @@
             "Nemract Plains West"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Nether Plains Upper": {
         "Routes": [
@@ -2017,7 +2265,7 @@
             "Plains Lake"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -2026,20 +2274,24 @@
             "Fish",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Desert East Upper": {
         "Routes": [
             "Desert East Mid"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Savannah East Upper": {
         "Routes": [
@@ -2048,13 +2300,15 @@
             "Savannah West Upper"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Sunspark Camp": {
         "Routes": [
@@ -2070,15 +2324,13 @@
         "Storage": [
             "Emeralds",
             "Ore",
-            "Crops",
-            "Icy Island",
-            "Fish",
-            "Herb Cave",
-            "Wood"
+            "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
-    "Icy Island  ": {
+    "Icy Island": {
         "Routes": [
             "Dujgon Nation",
             "Regular Island",
@@ -2086,10 +2338,15 @@
             "Santa's Hideout"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
-        "Storage": [],
-        "Emeralds": true
+        "Storage": [
+            "Emeralds",
+            "Fish"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Quartz Mines North East": {
         "Routes": [
@@ -2108,9 +2365,11 @@
             "Fish",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
-    "Gert Camp   ": {
+    "Gert Camp": {
         "Routes": [
             "Gylia Lake North East",
             "Jitak's Farm"
@@ -2118,10 +2377,18 @@
         "Resources": [
             "Wood"
         ],
-        "Storage": [],
-        "Emeralds": true
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
-    "Thesead     ": {
+    "Thesead": {
         "Routes": [
             "Entrance to Thesead South",
             "Thesead Suburbs"
@@ -2129,8 +2396,16 @@
         "Resources": [
             "Ore"
         ],
-        "Storage": [],
-        "Emeralds": true
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": true,
+        "DoubleResource": false
     },
     "Military Base Upper": {
         "Routes": [
@@ -2145,7 +2420,9 @@
             "Ore",
             "Fish"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Volcano Upper": {
         "Routes": [
@@ -2161,7 +2438,9 @@
             "Emeralds",
             "Ore"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Entrance to Olux": {
         "Routes": [
@@ -2178,7 +2457,9 @@
             "Emeralds",
             "Ore"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Otherwordly Monolith": {
         "Routes": [
@@ -2186,10 +2467,12 @@
             "Path to Light"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Lava Lake Bridge": {
         "Routes": [
@@ -2204,7 +2487,9 @@
             "Emeralds",
             "Ore"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Aldorei Valley West Entrance": {
         "Routes": [
@@ -2219,17 +2504,24 @@
             "Emeralds",
             "Wood"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
-    "Kandon-Beda ": {
+    "Kandon-Beda": {
         "Routes": [
             "Canyon Of The Lost"
         ],
         "Resources": [
             "Ore"
         ],
-        "Storage": [],
-        "Emeralds": true
+        "Storage": [
+            "Emeralds",
+            "Ore"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": true,
+        "DoubleResource": false
     },
     "Raider's Base Upper": {
         "Routes": [
@@ -2243,7 +2535,9 @@
             "Emeralds",
             "Ore"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Light Forest East Lower": {
         "Routes": [
@@ -2262,7 +2556,9 @@
             "Fish",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Jungle Upper": {
         "Routes": [
@@ -2271,14 +2567,16 @@
         "Resources": [
             "Ore",
             "Wood",
-            " Fish",
-            " Crops"
+            "Fish",
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
             "Wood"
         ],
-        "Emeralds": false
+        "Emeralds": false,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Dead Island South East": {
         "Routes": [
@@ -2288,13 +2586,15 @@
             "Dead Island North East"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
             "Fish"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Mesquis Tower": {
         "Routes": [
@@ -2313,7 +2613,9 @@
             "Fish",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Light Forest West Mid": {
         "Routes": [
@@ -2332,7 +2634,9 @@
             "Fish",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Path To Military Base": {
         "Routes": [
@@ -2347,7 +2651,9 @@
             "Ore",
             "Fish"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Light Forest West Upper": {
         "Routes": [
@@ -2361,11 +2667,11 @@
         ],
         "Storage": [
             "Emeralds",
-            "Wood",
-            "Swamp Mountain Transition Lower",
-            "Fish"
+            "Wood"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Mountain Edge": {
         "Routes": [
@@ -2376,13 +2682,11 @@
         ],
         "Storage": [
             "Emeralds",
-            "Ore",
-            "Dark Forest Cinfras Transition",
-            "Wood",
-            "Fish",
-            "Crops"
+            "Ore"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Nivla Woods Exit": {
         "Routes": [
@@ -2398,7 +2702,9 @@
             "Emeralds",
             "Wood"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Legendary Island": {
         "Routes": [
@@ -2408,18 +2714,19 @@
         "Resources": [
             "Ore",
             "Wood",
-            " Fish",
-            " Crops"
+            "Fish",
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
             "Ore",
             "Wood",
             "Fish",
-            "Crops",
-            "Kandon-Beda"
+            "Crops"
         ],
-        "Emeralds": false
+        "Emeralds": false,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Abandoned Pass": {
         "Routes": [
@@ -2433,13 +2740,13 @@
             "Emeralds",
             "Ore",
             "Wood",
-            "Crops",
-            "The Gate",
-            "Fish"
+            "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
-    "Nesaak Plains Upper North West  ": {
+    "Nesaak Plains Upper North West": {
         "Routes": [
             "Elkurn",
             "Sanctuary Bridge",
@@ -2450,20 +2757,31 @@
         "Resources": [
             "Wood"
         ],
-        "Storage": [],
-        "Emeralds": true
+        "Storage": [
+            "Emeralds",
+            "Wood"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
-    "Detlas      ": {
+    "Detlas": {
         "Routes": [
             "Detlas Savannah Transition",
             "Detlas Close Suburbs",
             "Detlas Trail East Plains"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
-        "Storage": [],
-        "Emeralds": true
+        "Storage": [
+            "Emeralds",
+            "Crops",
+            "Light Realm Entrance Upper"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": true,
+        "DoubleResource": false
     },
     "Chained House": {
         "Routes": [
@@ -2482,7 +2800,9 @@
             "Fish",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Corkus City Mine": {
         "Routes": [
@@ -2497,7 +2817,9 @@
             "Emeralds",
             "Ore"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Mountain Path": {
         "Routes": [
@@ -2508,15 +2830,13 @@
         ],
         "Storage": [
             "Emeralds",
-            "Ore",
-            "Rodoroc",
-            "Wood",
-            "Fish",
-            "Crops"
+            "Ore"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": true
     },
-    "Cinfras     ": {
+    "Cinfras": {
         "Routes": [
             "Cinfras Outskirts",
             "Cinfras Entrance",
@@ -2526,10 +2846,18 @@
         "Resources": [
             "Wood"
         ],
-        "Storage": [],
-        "Emeralds": true
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": true,
+        "DoubleResource": false
     },
-    "Lexdale     ": {
+    "Lexdale": {
         "Routes": [
             "Decayed Basin",
             "Viscera Pits East",
@@ -2539,8 +2867,16 @@
         "Resources": [
             "Wood"
         ],
-        "Storage": [],
-        "Emeralds": true
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Corkus City South": {
         "Routes": [
@@ -2551,7 +2887,7 @@
             "Corkus City"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
@@ -2560,7 +2896,9 @@
             "Fish",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Zhight Island": {
         "Routes": [
@@ -2569,27 +2907,33 @@
             "Pirate Town"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
             "Ore",
             "Wood",
             "Fish",
-            "Crops",
-            "Toxic Caves"
+            "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
-    "Toxic Caves ": {
+    "Toxic Caves": {
         "Routes": [
             "Toxic Drip"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
-        "Storage": [],
-        "Emeralds": true
+        "Storage": [
+            "Emeralds",
+            "Fish"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Nesaak Plains North East": {
         "Routes": [
@@ -2606,7 +2950,9 @@
             "Emeralds",
             "Wood"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Desolate Valley": {
         "Routes": [
@@ -2615,29 +2961,35 @@
             "Plains Lake"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
-            "Crops",
-            "Ragni",
-            "Ore",
-            "Wood",
-            "Fish"
+            "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
-    "Ragni       ": {
+    "Ragni": {
         "Routes": [
             "Ragni North Entrance",
             "Pigmen Ravines Entrance",
             "Ragni Main Entrance"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
-        "Storage": [],
-        "Emeralds": true
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": true,
+        "DoubleResource": false
     },
     "Field of Life": {
         "Routes": [
@@ -2650,7 +3002,9 @@
             "Wood"
         ],
         "Storage": [],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Nemract Town": {
         "Routes": [
@@ -2660,17 +3014,18 @@
             "Nemract Cathedral"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
             "Ore",
             "Wood",
             "Fish",
-            "Crops",
-            "Orc Road"
+            "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": true,
+        "DoubleResource": false
     },
     "Entrance to Thesead North": {
         "Routes": [
@@ -2685,7 +3040,9 @@
             "Ore",
             "Fish"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Detlas Far Suburbs": {
         "Routes": [
@@ -2698,18 +3055,19 @@
         "Resources": [
             "Ore",
             "Wood",
-            " Fish",
-            " Crops"
+            "Fish",
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
             "Ore",
             "Wood",
             "Fish",
-            "Crops",
-            "Plains Lake"
+            "Crops"
         ],
-        "Emeralds": false
+        "Emeralds": false,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Lighthouse Plateau": {
         "Routes": [
@@ -2718,13 +3076,15 @@
             "Southern Outpost"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
             "Fish"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Entrance to Thesead South": {
         "Routes": [
@@ -2741,11 +3101,11 @@
             "Ore",
             "Wood",
             "Fish",
-            "Crops",
-            "Elkurn",
-            "Bob's Tomb"
+            "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Dark Forest Village": {
         "Routes": [
@@ -2759,13 +3119,11 @@
         ],
         "Storage": [
             "Emeralds",
-            "Wood",
-            "Ragni",
-            "Ore",
-            "Fish",
-            "Crops"
+            "Wood"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Swamp East Mid": {
         "Routes": [
@@ -2781,20 +3139,24 @@
             "Emeralds",
             "Ore"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Mummy's Tomb": {
         "Routes": [
             "Desert Upper"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": true
     },
     "Dernel Jungle Upper": {
         "Routes": [
@@ -2808,7 +3170,9 @@
             "Ore",
             "Wood"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": true
     },
     "Lexdales Prison": {
         "Routes": [
@@ -2820,11 +3184,11 @@
         ],
         "Storage": [
             "Emeralds",
-            "Wood",
-            "Lost Atoll",
-            "Fish"
+            "Wood"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": true
     },
     "Wybel Island": {
         "Routes": [
@@ -2837,24 +3201,33 @@
         ],
         "Storage": [
             "Emeralds",
-            "Wood",
-            "Avos Temple",
-            "Fish"
+            "Wood"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
-    "Avos Temple ": {
+    "Avos Temple": {
         "Routes": [
             "Avos Workshop",
             "Bloody Beach"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
-        "Storage": [],
-        "Emeralds": true
+        "Storage": [
+            "Emeralds",
+            "Fish",
+            "Swamp Dark Forest Transition Mid",
+            "Ore",
+            "Wood",
+            "Crops"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
-    "Swamp Dark Forest Transition Mid": {
+    "Swamp Dark Forest Transition Mid�a]": {
         "Routes": [
             "Swamp Dark Forest Transition Upper",
             "Olux",
@@ -2865,14 +3238,10 @@
         "Resources": [
             "Ore"
         ],
-        "Storage": [
-            "Emeralds",
-            "Ore",
-            "Wood",
-            "Fish",
-            "Crops"
-        ],
-        "Emeralds": true
+        "Storage": [],
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Rymek West Upper": {
         "Routes": [
@@ -2882,13 +3251,15 @@
             "Rymek West Mid"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Goblin Plains East": {
         "Routes": [
@@ -2898,7 +3269,7 @@
             "Forgotten Path"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -2907,7 +3278,9 @@
             "Fish",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Azure Frontier": {
         "Routes": [
@@ -2917,10 +3290,12 @@
             "Otherwordly Monolith"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Cinfras County Mid-Upper": {
         "Routes": [
@@ -2936,12 +3311,13 @@
             "Ore",
             "Wood",
             "Fish",
-            "Crops",
-            "Ternaves"
+            "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
-    "Maltic      ": {
+    "Maltic": {
         "Routes": [
             "Ragni Plains",
             "Coastal Trail",
@@ -2952,11 +3328,17 @@
         "Resources": [
             "Ore",
             "Wood",
-            " Fish",
-            " Crops"
+            "Fish",
+            "Crops"
         ],
-        "Storage": [],
-        "Emeralds": false
+        "Storage": [
+            "Emeralds",
+            "Wood",
+            "Crops"
+        ],
+        "Emeralds": false,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Abandoned Manor": {
         "Routes": [
@@ -2972,7 +3354,9 @@
             "Emeralds",
             "Wood"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Swamp West Upper": {
         "Routes": [
@@ -2986,12 +3370,11 @@
         ],
         "Storage": [
             "Emeralds",
-            "Ore",
-            "Katoa Ranch",
-            "Wood",
-            "Crops"
+            "Ore"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Ragni East Suburbs": {
         "Routes": [
@@ -3000,16 +3383,18 @@
             "Maltic Plains"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
             "Wood",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
-    "Plains Lake ": {
+    "Plains Lake": {
         "Routes": [
             "Nether Plains Upper",
             "Nether Gate",
@@ -3017,10 +3402,18 @@
             "Desolate Valley"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
-        "Storage": [],
-        "Emeralds": true
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Ternaves Plains Upper": {
         "Routes": [
@@ -3030,17 +3423,21 @@
             "Ternaves Plains Lower"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
             "Ore",
             "Crops",
-            "Orc Lake"
+            "Swamp Dark Forest Transition Lower",
+            "Wood",
+            "Fish"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
-    "Swamp Dark Forest Transition Lower": {
+    "Swamp Dark Forest Transition Lower�a]": {
         "Routes": [
             "Swamp Dark Forest Transition Mid",
             "Fortress South",
@@ -3052,14 +3449,10 @@
         "Resources": [
             "Ore"
         ],
-        "Storage": [
-            "Emeralds",
-            "Ore",
-            "Wood",
-            "Fish",
-            "Crops"
-        ],
-        "Emeralds": true
+        "Storage": [],
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Twisted Housing": {
         "Routes": [
@@ -3079,7 +3472,9 @@
             "Fish",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Hobbit River": {
         "Routes": [
@@ -3094,7 +3489,9 @@
             "Emeralds",
             "Wood"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Cinfras Entrance": {
         "Routes": [
@@ -3111,10 +3508,11 @@
             "Ore",
             "Wood",
             "Fish",
-            "Crops",
-            "Iron Road"
+            "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Detlas Close Suburbs": {
         "Routes": [
@@ -3124,25 +3522,32 @@
             "Detlas Trail East Plains"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
-    "Lost Atoll  ": {
+    "Lost Atoll": {
         "Routes": [
             "Tree Island",
             "Volcano Upper",
             "Pirate Town"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
-        "Storage": [],
-        "Emeralds": true
+        "Storage": [
+            "Emeralds",
+            "Fish"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": true
     },
     "Twisted Ridge": {
         "Routes": [
@@ -3150,13 +3555,15 @@
             "Viscera Pits West"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
             "Wood"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Cliffside Valley": {
         "Routes": [
@@ -3175,7 +3582,9 @@
             "Fish",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Detlas Trail West Plains": {
         "Routes": [
@@ -3185,7 +3594,7 @@
             "Detlas Suburbs"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -3194,7 +3603,9 @@
             "Fish",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Canyon Survivor": {
         "Routes": [
@@ -3202,7 +3613,7 @@
             "Cliff Side of the Lost"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -3211,7 +3622,9 @@
             "Fish",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Aldorei Valley South Entrance": {
         "Routes": [
@@ -3227,10 +3640,11 @@
             "Ore",
             "Wood",
             "Fish",
-            "Crops",
-            "Hive"
+            "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Path To Ozoth's Spire Upper": {
         "Routes": [
@@ -3240,7 +3654,7 @@
             "Path To Ozoth's Spire Mid"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -3249,7 +3663,9 @@
             "Fish",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Light Forest West Lower": {
         "Routes": [
@@ -3262,11 +3678,11 @@
         ],
         "Storage": [
             "Emeralds",
-            "Wood",
-            "Time Valley",
-            "Fish"
+            "Wood"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Rymek East Mid": {
         "Routes": [
@@ -3275,13 +3691,15 @@
             "Rymek West Mid"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Forgotten Path": {
         "Routes": [
@@ -3290,40 +3708,52 @@
             "Swamp Dark Forest Transition Lower"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
             "Ore",
             "Wood",
             "Fish",
-            "Crops",
-            "Lusuco",
-            "Ternaves"
+            "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
-    "Lusuco      ": {
+    "Lusuco": {
         "Routes": [
             "Icy Descent"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
-        "Storage": [],
-        "Emeralds": true
+        "Storage": [
+            "Emeralds",
+            "Wood"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": true,
+        "DoubleResource": false
     },
-    "Ternaves    ": {
+    "Ternaves": {
         "Routes": [
             "Savannah East Lower",
             "Ternaves Plains Upper",
             "Ternaves Plains Lower"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
-        "Storage": [],
-        "Emeralds": true
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Fish",
+            "Crops"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Swamp Island": {
         "Routes": [
@@ -3338,7 +3768,9 @@
             "Emeralds",
             "Wood"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Temple of the Lost East": {
         "Routes": [
@@ -3355,7 +3787,9 @@
             "Fish",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Gateway to Nothing": {
         "Routes": [
@@ -3364,13 +3798,15 @@
             "Toxic Drip"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Goblin Plains West": {
         "Routes": [
@@ -3387,20 +3823,24 @@
             "Ore",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Half Moon Island": {
         "Routes": [
             "Mage Island"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": true
     },
     "Molten Heights Portal": {
         "Routes": [
@@ -3416,12 +3856,13 @@
             "Ore",
             "Wood",
             "Fish",
-            "Crops",
-            "Jungle Lake"
+            "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
-    "Jungle Lake ": {
+    "Jungle Lake": {
         "Routes": [
             "Jungle Mid",
             "Temple of Legends",
@@ -3430,8 +3871,16 @@
         "Resources": [
             "Wood"
         ],
-        "Storage": [],
-        "Emeralds": true
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Great Bridge Jungle": {
         "Routes": [
@@ -3446,7 +3895,9 @@
             "Emeralds",
             "Wood"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Canyon Entrance Waterfall": {
         "Routes": [
@@ -3460,9 +3911,11 @@
             "Emeralds",
             "Ore"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
-    "Orc Lake    ": {
+    "Orc Lake": {
         "Routes": [
             "Llevigar Plains East Lower",
             "Sunspark Camp",
@@ -3471,10 +3924,16 @@
             "Orc Road"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
-        "Storage": [],
-        "Emeralds": true
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Crops"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Corkus Forest South": {
         "Routes": [
@@ -3490,7 +3949,9 @@
             "Emeralds",
             "Wood"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Nesaak Plains South West": {
         "Routes": [
@@ -3506,12 +3967,13 @@
         ],
         "Storage": [
             "Emeralds",
-            "Wood",
-            "Lusuco"
+            "Wood"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
-    "Nether Gate ": {
+    "Nether Gate": {
         "Routes": [
             "Nether Plains Upper",
             "Corrupted Road",
@@ -3519,10 +3981,16 @@
             "Plains Lake"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
-        "Storage": [],
-        "Emeralds": true
+        "Storage": [
+            "Emeralds",
+            "Fish",
+            "Crops"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Aldorei's Arch": {
         "Routes": [
@@ -3539,7 +4007,9 @@
             "Fish",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Gelibord Castle": {
         "Routes": [
@@ -3553,7 +4023,9 @@
             "Emeralds",
             "Wood"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Llevigar Gate West": {
         "Routes": [
@@ -3568,7 +4040,9 @@
             "Ore",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Cathedral Harbour": {
         "Routes": [
@@ -3579,13 +4053,15 @@
             "Savannah West Upper"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
             "Fish"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Great Bridge Nesaak": {
         "Routes": [
@@ -3597,24 +4073,27 @@
         ],
         "Storage": [
             "Emeralds",
-            "Wood",
-            "Avos Temple",
-            "Fish",
-            "Phinas Farm",
-            "Crops"
+            "Wood"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
-    "Phinas Farm ": {
+    "Phinas Farm": {
         "Routes": [
             "Royal Gate",
             "Lighthouse Plateau"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
-        "Storage": [],
-        "Emeralds": true
+        "Storage": [
+            "Emeralds",
+            "Crops"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Jofash Tunnel": {
         "Routes": [
@@ -3628,7 +4107,9 @@
             "Emeralds",
             "Ore"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Light Forest North Exit": {
         "Routes": [
@@ -3646,7 +4127,9 @@
             "Fish",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Sablestone Camp": {
         "Routes": [
@@ -3664,7 +4147,9 @@
             "Crops",
             "Light Realm Corruption"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Viscera Pits East": {
         "Routes": [
@@ -3679,7 +4164,9 @@
             "Emeralds",
             "Wood"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "The Broken Road": {
         "Routes": [
@@ -3687,26 +4174,7 @@
             "The Silent Road"
         ],
         "Resources": [
-            " Crops"
-        ],
-        "Storage": [
-            "Emeralds",
-            "Ore",
-            "Wood",
-            "Fish",
-            "Crops",
-            "Sky Falls",
-            "Lava Lake"
-        ],
-        "Emeralds": true
-    },
-    "Aldorei's Waterfall": {
-        "Routes": [
-            "Aldorei Valley South Entrance",
-            "Aldorei Valley Upper"
-        ],
-        "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -3715,7 +4183,28 @@
             "Fish",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
+    },
+    "Aldorei's Waterfall": {
+        "Routes": [
+            "Aldorei Valley South Entrance",
+            "Aldorei Valley Upper"
+        ],
+        "Resources": [
+            "Crops"
+        ],
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Gylia Lake North West": {
         "Routes": [
@@ -3725,7 +4214,7 @@
             "Jitak's Farm"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
@@ -3735,7 +4224,9 @@
             "Crops",
             "Light Realm East Upper"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Dernel Jungle Lower": {
         "Routes": [
@@ -3743,14 +4234,15 @@
             "Dernel Jungle Mid"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
-            "Wood",
-            "Jungle Mid"
+            "Wood"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Gylia Lake South East": {
         "Routes": [
@@ -3760,7 +4252,7 @@
             "Thanos"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
@@ -3769,7 +4261,9 @@
             "Fish",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Mushroom Hill": {
         "Routes": [
@@ -3786,7 +4280,9 @@
             "Wood",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Forest of Eyes": {
         "Routes": [
@@ -3801,30 +4297,44 @@
             "Ore",
             "Wood",
             "Fish",
-            "Crops",
-            "Void Valley"
+            "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
-    "Void Valley ": {
+    "Void Valley": {
         "Routes": [
             "Gateway to Nothing"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
-        "Storage": [],
-        "Emeralds": true
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Crops"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
-    "Kandon Farm ": {
+    "Kandon Farm": {
         "Routes": [
             "Kandon Ridge"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
-        "Storage": [],
-        "Emeralds": true
+        "Storage": [
+            "Emeralds",
+            "Wood",
+            "Fish",
+            "Crops"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Meteor Crater": {
         "Routes": [
@@ -3839,7 +4349,9 @@
             "Emeralds",
             "Ore"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Astraulus' Tower": {
         "Routes": [
@@ -3851,13 +4363,11 @@
         ],
         "Storage": [
             "Emeralds",
-            "Wood",
-            "Grey Ruins",
-            "Ore",
-            "Fish",
-            "Crops"
+            "Wood"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Desert East Mid": {
         "Routes": [
@@ -3866,13 +4376,15 @@
             "Desert Mid-Upper"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
             "Fish"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Efilim South East Plains": {
         "Routes": [
@@ -3882,7 +4394,7 @@
             "Light Forest West Upper"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -3891,7 +4403,9 @@
             "Fish",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Taproot Descent": {
         "Routes": [
@@ -3911,7 +4425,9 @@
             "Fish",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Cinfras County Lower": {
         "Routes": [
@@ -3924,13 +4440,11 @@
         ],
         "Storage": [
             "Emeralds",
-            "Wood",
-            "Toxic Drip",
-            "Ore",
-            "Fish",
-            "Crops"
+            "Wood"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Dead Island North West": {
         "Routes": [
@@ -3940,14 +4454,16 @@
         "Resources": [
             "Ore",
             "Wood",
-            " Fish",
-            " Crops"
+            "Fish",
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
             "Fish"
         ],
-        "Emeralds": false
+        "Emeralds": false,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Cinfras Outskirts": {
         "Routes": [
@@ -3965,10 +4481,11 @@
             "Ore",
             "Wood",
             "Fish",
-            "Crops",
-            "The Gate"
+            "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Plains Coast": {
         "Routes": [
@@ -3977,7 +4494,7 @@
             "Nemract Quarry"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
@@ -3986,7 +4503,9 @@
             "Fish",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Desert East Lower": {
         "Routes": [
@@ -3995,13 +4514,15 @@
             "Desert East Mid"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Cliff Side of the Lost": {
         "Routes": [
@@ -4020,10 +4541,11 @@
             "Wood",
             "Fish",
             "Crops",
-            "Light Realm Corruption",
-            "Llevigar"
+            "Light Realm Corruption"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Llevigar Plains East Upper": {
         "Routes": [
@@ -4041,7 +4563,9 @@
             "Ore",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Raider's Base Lower": {
         "Routes": [
@@ -4056,9 +4580,11 @@
             "Wood",
             "Fish"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
-    "Time Valley ": {
+    "Time Valley": {
         "Routes": [
             "Abandoned Farm",
             "Little Wood",
@@ -4067,23 +4593,28 @@
         "Resources": [
             "Wood"
         ],
-        "Storage": [],
-        "Emeralds": true
+        "Storage": [
+            "Emeralds",
+            "Wood",
+            "Fish"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
-    "Swamp Mountain Transition Mid-Upper": {
+    "Swamp Mountain Transition Mid-Upper�a]": {
         "Routes": [
             "Swamp Mountain Transition Upper",
             "Swamp Mountain Transition Mid",
             "Swamp East Upper"
         ],
         "Resources": [
-            " Fish"
-        ],
-        "Storage": [
-            "Emeralds",
             "Fish"
         ],
-        "Emeralds": true
+        "Storage": [],
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Ghostly Path": {
         "Routes": [
@@ -4097,7 +4628,9 @@
             "Emeralds",
             "Ore"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "North Nivla Woods": {
         "Routes": [
@@ -4110,13 +4643,11 @@
         ],
         "Storage": [
             "Emeralds",
-            "Wood",
-            "Pirate Town",
-            "Ore",
-            "Fish",
-            "Crops"
+            "Wood"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Gylia Lake North East": {
         "Routes": [
@@ -4126,7 +4657,7 @@
             "Gert Camp"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
@@ -4135,7 +4666,9 @@
             "Fish",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Bandit Cave Lower": {
         "Routes": [
@@ -4149,9 +4682,13 @@
             "Emeralds",
             "Ore",
             "Fish",
-            "Toxic Caves"
+            "Swamp Dark Forest Transition Lower",
+            "Wood",
+            "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Military Base Lower": {
         "Routes": [
@@ -4165,12 +4702,11 @@
         "Storage": [
             "Emeralds",
             "Ore",
-            "Fish",
-            "Maltic",
-            "Wood",
-            "Crops"
+            "Fish"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Canyon Walk Way": {
         "Routes": [
@@ -4188,7 +4724,9 @@
             "Fish",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Volcano Lower": {
         "Routes": [
@@ -4206,7 +4744,9 @@
             "Fish",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Mining Base Upper": {
         "Routes": [
@@ -4220,13 +4760,13 @@
         "Storage": [
             "Emeralds",
             "Ore",
-            "Crops",
-            "Hive South",
-            "Fish"
+            "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
-    "Hive South  ": {
+    "Hive South": {
         "Routes": [
             "Chained House",
             "Cherry Blossom Forest",
@@ -4237,8 +4777,15 @@
         "Resources": [
             "Ore"
         ],
-        "Storage": [],
-        "Emeralds": true
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Fish",
+            "Crops"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Road To Mine": {
         "Routes": [
@@ -4247,13 +4794,15 @@
             "Corkus City South"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
             "Fish"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Swamp West Lower": {
         "Routes": [
@@ -4266,16 +4815,13 @@
         ],
         "Storage": [
             "Emeralds",
-            "Ore",
-            "Llevigar",
-            "Wood",
-            "Fish",
-            "Crops",
-            "Orphion's Seal"
+            "Ore"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": true
     },
-    "Llevigar    ": {
+    "Llevigar": {
         "Routes": [
             "Quartz Mines South West",
             "Llevigar Gate East",
@@ -4284,8 +4830,17 @@
         "Resources": [
             "Ore"
         ],
-        "Storage": [],
-        "Emeralds": true
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops",
+            "Orphion's Seal"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": true,
+        "DoubleResource": false
     },
     "Entrance to Rodoroc": {
         "Routes": [
@@ -4304,7 +4859,9 @@
             "Crops",
             "Light Realm Entrance"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Light Forest Canyon": {
         "Routes": [
@@ -4322,21 +4879,25 @@
             "Fish",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Corkus Castle": {
         "Routes": [
             "Corkus City"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
             "Fish",
             "Orphion's Seal Upper"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Snail Island": {
         "Routes": [
@@ -4349,9 +4910,11 @@
             "Emeralds",
             "Wood"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
-    "Lava Lake   ": {
+    "Lava Lake": {
         "Routes": [
             "Active Volcano",
             "Volcanic Slope",
@@ -4360,18 +4923,28 @@
         "Resources": [
             "Ore"
         ],
-        "Storage": [],
-        "Emeralds": true
+        "Storage": [
+            "Emeralds",
+            "Ore"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
-    "Sky Castle  ": {
+    "Sky Castle": {
         "Routes": [
             "Path to Ahmsord Lower"
         ],
         "Resources": [
             "Wood"
         ],
-        "Storage": [],
-        "Emeralds": true
+        "Storage": [
+            "Emeralds",
+            "Wood"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Canyon Path South East": {
         "Routes": [
@@ -4385,7 +4958,9 @@
             "Emeralds",
             "Ore"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Ternaves Plains Lower": {
         "Routes": [
@@ -4396,7 +4971,7 @@
             "Mine Base Plains"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -4405,17 +4980,27 @@
             "Crops",
             "Orphion's Seal"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
-    "The Gate    ": {
+    "The Gate": {
         "Routes": [
             "Bizarre Passage"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
-        "Storage": [],
-        "Emeralds": true
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": true
     },
     "Fleris Trail": {
         "Routes": [
@@ -4426,12 +5011,11 @@
         ],
         "Storage": [
             "Emeralds",
-            "Wood",
-            "Nivla Woods",
-            "Fish",
-            "Crops"
+            "Wood"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": true
     },
     "Corkus Forest North": {
         "Routes": [
@@ -4447,7 +5031,9 @@
             "Emeralds",
             "Wood"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Sinister Forest": {
         "Routes": [
@@ -4464,7 +5050,9 @@
             "Fish",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Swamp East Upper": {
         "Routes": [
@@ -4481,7 +5069,9 @@
             "Emeralds",
             "Ore"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Pigmen Ravines Entrance": {
         "Routes": [
@@ -4499,7 +5089,9 @@
             "Fish",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Corkus Outskirts": {
         "Routes": [
@@ -4508,17 +5100,15 @@
             "Corkus Countryside"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
-            "Fish",
-            "Lutho",
-            "Ore",
-            "Wood",
-            "Crops"
+            "Fish"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Maltic Coast": {
         "Routes": [
@@ -4528,15 +5118,17 @@
             "South Farmers Valley"
         ],
         "Resources": [
-            " Fish",
-            " Crops"
+            "Fish",
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
             "Fish",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Quartz Mines North West": {
         "Routes": [
@@ -4553,23 +5145,26 @@
             "Ore",
             "Wood",
             "Fish",
-            "Crops",
-            "Almuj City",
-            "Kandon Farm",
-            "Guild Hall",
-            "Void Valley"
+            "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
-    "Guild Hall  ": {
+    "Guild Hall": {
         "Routes": [
             "Cinfras"
         ],
         "Resources": [
             "Ore"
         ],
-        "Storage": [],
-        "Emeralds": true
+        "Storage": [
+            "Emeralds",
+            "Wood"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Nemract Plains East": {
         "Routes": [
@@ -4586,7 +5181,9 @@
             "Fish",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Corkus Sea Port": {
         "Routes": [
@@ -4596,13 +5193,15 @@
             "Corkus Sea Cove"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
             "Fish"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Efilim South Plains": {
         "Routes": [
@@ -4617,7 +5216,9 @@
             "Emeralds",
             "Wood"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Path to Talor": {
         "Routes": [
@@ -4636,9 +5237,12 @@
             "Ore",
             "Wood",
             "Fish",
-            "Crops"
+            "Crops",
+            "Swamp Mountain Transition Mid-Upper"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Mansion of Insanity": {
         "Routes": [
@@ -4649,14 +5253,16 @@
         "Resources": [
             "Ore",
             "Wood",
-            " Fish",
-            " Crops"
+            "Fish",
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
             "Wood"
         ],
-        "Emeralds": false
+        "Emeralds": false,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Detlas Trail East Plains": {
         "Routes": [
@@ -4667,7 +5273,7 @@
             "Detlas Suburbs"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -4676,7 +5282,9 @@
             "Fish",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Efilim East Plains": {
         "Routes": [
@@ -4688,12 +5296,11 @@
         ],
         "Storage": [
             "Emeralds",
-            "Wood",
-            "Nether Gate",
-            "Fish",
-            "Crops"
+            "Wood"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Light Forest Entrance": {
         "Routes": [
@@ -4710,10 +5317,11 @@
             "Ore",
             "Wood",
             "Fish",
-            "Crops",
-            "Toxic Drip"
+            "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Light Forest East Upper": {
         "Routes": [
@@ -4730,18 +5338,28 @@
             "Fish",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
-    "Eltom       ": {
+    "Eltom": {
         "Routes": [
             "Ranol's Farm",
             "Entrance to Rodoroc"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
-        "Storage": [],
-        "Emeralds": true
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Molten Reach": {
         "Routes": [
@@ -4756,10 +5374,11 @@
             "Ore",
             "Wood",
             "Fish",
-            "Crops",
-            "Rodoroc"
+            "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Llevigar Farm Plains West": {
         "Routes": [
@@ -4768,19 +5387,18 @@
             "Llevigar Plains West Lower"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
             "Ore",
-            "Crops",
-            "Mantis Nest",
-            "Wood",
-            "Fish"
+            "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
-    "Mantis Nest ": {
+    "Mantis Nest": {
         "Routes": [
             "Light Forest Canyon",
             "Light Forest East Lower",
@@ -4791,8 +5409,16 @@
         "Resources": [
             "Wood"
         ],
-        "Storage": [],
-        "Emeralds": true
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Quartz Mines South East": {
         "Routes": [
@@ -4808,7 +5434,9 @@
             "Wood",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Dragonling Nests": {
         "Routes": [
@@ -4820,24 +5448,30 @@
         ],
         "Storage": [
             "Emeralds",
-            "Wood",
-            "Grey Ruins",
-            "Ore",
-            "Fish",
-            "Crops"
+            "Wood"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": true
     },
-    "Grey Ruins  ": {
+    "Grey Ruins": {
         "Routes": [
             "Worm Tunnel",
             "Forgotten Town"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
-        "Storage": [],
-        "Emeralds": true
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Corkus Mountain": {
         "Routes": [
@@ -4846,15 +5480,15 @@
             "Corkus Docks"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
-            "Fish",
-            "Guild Hall",
-            "Wood"
+            "Fish"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Bizarre Passage": {
         "Routes": [
@@ -4862,7 +5496,7 @@
             "Final Step"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -4870,7 +5504,9 @@
             "Fish",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Burning Airship": {
         "Routes": [
@@ -4886,7 +5522,9 @@
             "Ore",
             "Fish"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Bloody Beach": {
         "Routes": [
@@ -4899,8 +5537,8 @@
         "Resources": [
             "Ore",
             "Wood",
-            " Fish",
-            " Crops"
+            "Fish",
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -4909,7 +5547,9 @@
             "Fish",
             "Crops"
         ],
-        "Emeralds": false
+        "Emeralds": false,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Nivla Woods Edge": {
         "Routes": [
@@ -4926,7 +5566,9 @@
             "Wood",
             "Light Realm East Mid"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Nesaak Transition": {
         "Routes": [
@@ -4936,13 +5578,15 @@
             "Desolate Valley"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Road to Time Valley": {
         "Routes": [
@@ -4958,7 +5602,9 @@
             "Wood",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Swamp Mountain Base": {
         "Routes": [
@@ -4973,10 +5619,11 @@
         "Storage": [
             "Emeralds",
             "Ore",
-            "Crops",
-            "Phinas Farm"
+            "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Loamsprout Camp": {
         "Routes": [
@@ -4992,7 +5639,9 @@
             "Emeralds",
             "Ore"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Elkurn Fields": {
         "Routes": [
@@ -5002,19 +5651,16 @@
             "South Nivla Woods"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
             "Wood",
-            "Crops",
-            "Sky Falls",
-            "Ore",
-            "Icy Island",
-            "Fish",
-            "Sky Castle"
+            "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Nexus of Light": {
         "Routes": [
@@ -5023,11 +5669,13 @@
         "Resources": [
             "Ore",
             "Wood",
-            " Fish",
-            " Crops"
+            "Fish",
+            "Crops"
         ],
         "Storage": [],
-        "Emeralds": false
+        "Emeralds": false,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Aldorei Valley Upper": {
         "Routes": [
@@ -5035,7 +5683,7 @@
             "Aldorei's Waterfall"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -5044,7 +5692,9 @@
             "Fish",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Jitak's Farm": {
         "Routes": [
@@ -5053,34 +5703,46 @@
             "Mushroom Hill"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
-    "Twain Lake  ": {
+    "Twain Lake": {
         "Routes": [
             "Nesaak Plains South West",
             "Twain Mansion"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
-        "Storage": [],
-        "Emeralds": true
+        "Storage": [
+            "Emeralds",
+            "Wood",
+            "Fish"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
-    "Herb Cave   ": {
+    "Herb Cave": {
         "Routes": [
             "Great Bridge Jungle"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
-        "Storage": [],
-        "Emeralds": true
+        "Storage": [
+            "Wood"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Durum Isles East": {
         "Routes": [
@@ -5088,16 +5750,17 @@
             "Mage Island"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
             "Ore",
             "Fish",
-            "Crops",
-            "Thanos Exit"
+            "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Pre-Light Forest Transition": {
         "Routes": [
@@ -5116,7 +5779,9 @@
             "Fish",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Aldorei's River": {
         "Routes": [
@@ -5131,7 +5796,9 @@
             "Wood",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Cliffside Passage North": {
         "Routes": [
@@ -5146,7 +5813,9 @@
             "Ore",
             "Fish"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Temple of Legends": {
         "Routes": [
@@ -5158,21 +5827,26 @@
         ],
         "Storage": [
             "Emeralds",
-            "Wood",
-            "Lion Lair",
-            "Crops"
+            "Wood"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
-    "Lion Lair   ": {
+    "Lion Lair": {
         "Routes": [
             "Bremminglar"
         ],
         "Resources": [
             "Wood"
         ],
-        "Storage": [],
-        "Emeralds": true
+        "Storage": [
+            "Emeralds",
+            "Crops"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Nesaak Village": {
         "Routes": [
@@ -5188,13 +5862,13 @@
         "Storage": [
             "Emeralds",
             "Wood",
-            "Hive",
-            "Crops",
             "Road to Corruption"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": true,
+        "DoubleResource": false
     },
-    "Swamp Mountain Transition Upper ": {
+    "Swamp Mountain Transition Upper": {
         "Routes": [
             "Swamp Mountain Transition Mid-Upper",
             "Swamp East Upper",
@@ -5203,8 +5877,13 @@
         "Resources": [
             "Ore"
         ],
-        "Storage": [],
-        "Emeralds": true
+        "Storage": [
+            "Emeralds",
+            "Ore"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Leadin Fortress": {
         "Routes": [
@@ -5222,7 +5901,9 @@
             "Fish",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Corrupted Road": {
         "Routes": [
@@ -5232,13 +5913,15 @@
             "Detlas Far Suburbs"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "North Farmers Valley": {
         "Routes": [
@@ -5247,14 +5930,16 @@
             "South Farmers Valley"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
             "Wood",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Ruined Houses": {
         "Routes": [
@@ -5263,15 +5948,15 @@
             "Factory Entrance"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
-            "Fish",
-            "Icy Descent",
-            "Wood"
+            "Fish"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Emerald Trail": {
         "Routes": [
@@ -5280,17 +5965,16 @@
             "Maltic Plains"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
             "Wood",
-            "Crops",
-            "Selchar",
-            "Ore",
-            "Fish"
+            "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Heavenly Ingress": {
         "Routes": [
@@ -5301,7 +5985,9 @@
             "Wood"
         ],
         "Storage": [],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Sky Island Ascent": {
         "Routes": [
@@ -5317,22 +6003,30 @@
             "Emeralds",
             "Ore",
             "Wood",
-            "Fish",
-            "Bremminglar",
-            "Crops"
+            "Fish"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
-    "Lutho       ": {
+    "Lutho": {
         "Routes": [
             "Sinister Forest",
             "Paths of Sludge"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
-        "Storage": [],
-        "Emeralds": true
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": true,
+        "DoubleResource": false
     },
     "Old Coal Mine": {
         "Routes": [
@@ -5341,15 +6035,17 @@
         "Resources": [
             "Ore",
             "Wood",
-            " Fish",
-            " Crops"
+            "Fish",
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
             "Ore",
             "Wood"
         ],
-        "Emeralds": false
+        "Emeralds": false,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Dead Island South West": {
         "Routes": [
@@ -5359,17 +6055,17 @@
             "Skiens Island"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
-            "Fish",
-            "Jungle Mid",
-            "Wood"
+            "Fish"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
-    "Jungle Mid  ": {
+    "Jungle Mid": {
         "Routes": [
             "Jungle Lake",
             "Jungle Upper",
@@ -5378,8 +6074,13 @@
         "Resources": [
             "Wood"
         ],
-        "Storage": [],
-        "Emeralds": true
+        "Storage": [
+            "Emeralds",
+            "Wood"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Aldorei's North Exit": {
         "Routes": [
@@ -5390,8 +6091,8 @@
         "Resources": [
             "Ore",
             "Wood",
-            " Fish",
-            " Crops"
+            "Fish",
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -5401,7 +6102,9 @@
             "Crops",
             ": -----------------------Command end-----------------------"
         ],
-        "Emeralds": false
+        "Emeralds": false,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Light Forest South Entrance": {
         "Routes": [
@@ -5412,17 +6115,16 @@
         "Resources": [
             "Ore",
             "Wood",
-            " Fish",
-            " Crops"
-        ],
-        "Storage": [
-            "Emeralds",
-            "Wood",
-            "Kandon Farm",
             "Fish",
             "Crops"
         ],
-        "Emeralds": false
+        "Storage": [
+            "Emeralds",
+            "Wood"
+        ],
+        "Emeralds": false,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Desert Upper": {
         "Routes": [
@@ -5431,13 +6133,15 @@
             "Desert Mid-Upper"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Southern Outpost": {
         "Routes": [
@@ -5445,18 +6149,18 @@
             "Lighthouse Plateau"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
             "Ore",
             "Wood",
             "Fish",
-            "Crops",
-            "Lion Lair",
-            "Gelibord"
+            "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Factory Entrance": {
         "Routes": [
@@ -5466,13 +6170,15 @@
             "Ruined Houses"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
             "Fish"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "The Bear Zoo": {
         "Routes": [
@@ -5480,7 +6186,7 @@
             "Zhight Island"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
@@ -5489,7 +6195,9 @@
             "Fish",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Dead Island North East": {
         "Routes": [
@@ -5498,17 +6206,15 @@
             "Jofash Docks"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
-            "Fish",
-            "Little Wood",
-            "Ore",
-            "Wood",
-            "Crops"
+            "Fish"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Cherry Blossom Forest": {
         "Routes": [
@@ -5526,7 +6232,9 @@
             "Fish",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Wizard Tower North": {
         "Routes": [
@@ -5541,7 +6249,9 @@
             "Ore",
             "Fish"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Canyon Of The Lost": {
         "Routes": [
@@ -5555,13 +6265,11 @@
         ],
         "Storage": [
             "Emeralds",
-            "Ore",
-            "Little Wood",
-            "Wood",
-            "Fish",
-            "Crops"
+            "Ore"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Rymek West Lower": {
         "Routes": [
@@ -5575,7 +6283,9 @@
             "Emeralds",
             "Ore"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Central Islands": {
         "Routes": [
@@ -5595,7 +6305,9 @@
             "Fish",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Canyon Path North West": {
         "Routes": [
@@ -5603,7 +6315,7 @@
             "Canyon Path South East"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -5612,7 +6324,9 @@
             "Fish",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Canyon Waterfall Mid North": {
         "Routes": [
@@ -5628,7 +6342,9 @@
             "Ore",
             "Fish"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Military Base": {
         "Routes": [
@@ -5643,9 +6359,11 @@
             "Ore",
             "Fish"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
-    "Icy Descent ": {
+    "Icy Descent": {
         "Routes": [
             "Tower of Ascension",
             "Lusuco"
@@ -5653,8 +6371,13 @@
         "Resources": [
             "Wood"
         ],
-        "Storage": [],
-        "Emeralds": true
+        "Storage": [
+            "Emeralds",
+            "Wood"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Canyon Path South West": {
         "Routes": [
@@ -5669,7 +6392,9 @@
             "Ore",
             "Fish"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Aldorei Valley Lower": {
         "Routes": [
@@ -5677,7 +6402,7 @@
             "Aldorei Valley West Entrance"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -5686,7 +6411,9 @@
             "Fish",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "South Pigmen Ravines": {
         "Routes": [
@@ -5703,7 +6430,9 @@
             "Fish",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Desert Lower": {
         "Routes": [
@@ -5712,13 +6441,15 @@
             "Desert West Lower"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Abandoned Farm": {
         "Routes": [
@@ -5726,19 +6457,16 @@
             "Time Valley"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
             "Wood",
-            "Crops",
-            "Twain Lake",
-            "Fish",
-            "Thanos",
-            "Ore",
-            "Herb Cave"
+            "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Nether Plains Lower": {
         "Routes": [
@@ -5748,15 +6476,17 @@
             "Desolate Valley"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
-    "Olux        ": {
+    "Olux": {
         "Routes": [
             "Swamp Dark Forest Transition Mid",
             "Swamp Dark Forest Transition Upper",
@@ -5766,10 +6496,18 @@
         "Resources": [
             "Ore"
         ],
-        "Storage": [],
-        "Emeralds": true
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": true,
+        "DoubleResource": false
     },
-    "Gelibord    ": {
+    "Gelibord": {
         "Routes": [
             "Lone Farmstead",
             "Entrance to Kander",
@@ -5779,8 +6517,16 @@
         "Resources": [
             "Wood"
         ],
-        "Storage": [],
-        "Emeralds": true
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": true,
+        "DoubleResource": false
     },
     "Mining Base Lower": {
         "Routes": [
@@ -5796,7 +6542,9 @@
             "Fish",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Ragni North Entrance": {
         "Routes": [
@@ -5805,32 +6553,16 @@
             "Ragni North Suburbs"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
             "Wood",
-            "Crops",
-            "Selchar",
-            "Ore",
-            "Fish"
+            "Crops"
         ],
-        "Emeralds": true
-    },
-    "�eTerritory Map �6[Full View": {
-        "Routes": [
-            "Llevigar Plains West Lower",
-            "Llevigar Farm Plains East",
-            "Orc Lake",
-            "Llevigar Plains East Upper"
-        ],
-        "Resources": [
-            "�eTerritory Map �6[Close Up",
-            "Llevigar Plains East Lower",
-            "Ore"
-        ],
-        "Storage": [],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Ranol's Farm": {
         "Routes": [
@@ -5839,7 +6571,7 @@
             "Eltom"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -5849,7 +6581,9 @@
             "Crops",
             "Road to Corruption"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Path To The Arch": {
         "Routes": [
@@ -5865,12 +6599,11 @@
             "Ore",
             "Wood",
             "Fish",
-            "Crops",
-            "Eltom",
-            "Almuj City",
-            "Light Realm East Upper"
+            "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Light Forest North Entrance": {
         "Routes": [
@@ -5885,7 +6618,9 @@
             "Emeralds",
             "Wood"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Light Forest South Exit": {
         "Routes": [
@@ -5900,12 +6635,13 @@
             "Ore",
             "Wood",
             "Fish",
-            "Crops",
-            "Cinfras"
+            "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
-    "Nivla Woods ": {
+    "Nivla Woods": {
         "Routes": [
             "Nivla Woods Entrance",
             "South Nivla Woods",
@@ -5915,8 +6651,15 @@
         "Resources": [
             "Wood"
         ],
-        "Storage": [],
-        "Emeralds": true
+        "Storage": [
+            "Emeralds",
+            "Wood",
+            "Fish",
+            "Crops"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Luminous Plateau": {
         "Routes": [
@@ -5926,7 +6669,9 @@
             "Wood"
         ],
         "Storage": [],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Rymek East Lower": {
         "Routes": [
@@ -5940,7 +6685,9 @@
             "Emeralds",
             "Ore"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Llevigar Plains West Upper": {
         "Routes": [
@@ -5957,7 +6704,9 @@
             "Crops",
             "Light Realm East Mid-Upper"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Desert Mid-Lower": {
         "Routes": [
@@ -5968,13 +6717,15 @@
             "Desert East Lower"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Coastal Trail": {
         "Routes": [
@@ -5988,9 +6739,13 @@
             "Emeralds",
             "Wood",
             "Fish",
-            "Crops"
+            "Crops",
+            "Swamp Dark Forest Transition Mid",
+            "Ore"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Thanos Exit Upper": {
         "Routes": [
@@ -6010,9 +6765,11 @@
             "Fish",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
-    "Elkurn      ": {
+    "Elkurn": {
         "Routes": [
             "Road to Elkurn",
             "Nesaak Plains Upper North West",
@@ -6020,10 +6777,16 @@
             "Elkurn Fields"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
-        "Storage": [],
-        "Emeralds": true
+        "Storage": [
+            "Emeralds",
+            "Wood",
+            "Crops"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Bandit Cave Upper": {
         "Routes": [
@@ -6035,13 +6798,11 @@
         "Storage": [
             "Emeralds",
             "Ore",
-            "Fish",
-            "Gert Camp",
-            "Wood",
-            "Crops",
-            "Thesead"
+            "Fish"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Light Forest East Mid": {
         "Routes": [
@@ -6050,17 +6811,18 @@
             "Light Forest East Lower"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
             "Ore",
             "Wood",
             "Fish",
-            "Crops",
-            "Kandon-Beda"
+            "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Corkus Countryside": {
         "Routes": [
@@ -6070,18 +6832,15 @@
             "Avos Temple"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
-            "Fish",
-            "Nesaak Plains Upper North West",
-            "Wood",
-            "Detlas",
-            "Crops",
-            "Light Realm Entrance Upper"
+            "Fish"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Kandon Ridge": {
         "Routes": [
@@ -6096,7 +6855,9 @@
             "Emeralds",
             "Wood"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Jungle Lower": {
         "Routes": [
@@ -6111,7 +6872,9 @@
             "Emeralds",
             "Wood"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Cliffside Passage": {
         "Routes": [
@@ -6127,7 +6890,9 @@
             "Fish",
             "Orphion's Seal Upper"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Corkus Statue": {
         "Routes": [
@@ -6135,28 +6900,34 @@
             "Corkus City Mine"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
             "Ore",
             "Wood",
             "Fish",
-            "Crops",
-            "Thesead"
+            "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
-    "Hive        ": {
+    "Hive": {
         "Routes": [
             "Hive South",
             "Thanos Exit Upper"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
-        "Storage": [],
-        "Emeralds": true
+        "Storage": [
+            "Emeralds",
+            "Crops"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Dujgon Nation": {
         "Routes": [
@@ -6167,7 +6938,7 @@
             "Nodguj Nation"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
@@ -6176,7 +6947,9 @@
             "Fish",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Canyon Lower South East": {
         "Routes": [
@@ -6195,9 +6968,11 @@
             "Fish",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
-    "Sky Falls   ": {
+    "Sky Falls": {
         "Routes": [
             "Frozen Fort",
             "Wybel Island",
@@ -6206,20 +6981,33 @@
         "Resources": [
             "Ore"
         ],
-        "Storage": [],
-        "Emeralds": true
+        "Storage": [
+            "Emeralds",
+            "Ore"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
-    "Rodoroc     ": {
+    "Rodoroc": {
         "Routes": [
             "Crater Descent"
         ],
         "Resources": [
             "Ore"
         ],
-        "Storage": [],
-        "Emeralds": true
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": true,
+        "DoubleResource": false
     },
-    "Almuj City  ": {
+    "Almuj City": {
         "Routes": [
             "Savannah East Upper",
             "Desert West Upper",
@@ -6228,10 +7016,16 @@
             "Desert Mid-Lower"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
-        "Storage": [],
-        "Emeralds": true
+        "Storage": [
+            "Emeralds",
+            "Crops",
+            "Light Realm East Upper"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": true,
+        "DoubleResource": false
     },
     "Bandits Toll": {
         "Routes": [
@@ -6250,19 +7044,29 @@
             "Fish",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
-    "Toxic Drip  ": {
+    "Toxic Drip": {
         "Routes": [
             "Toxic Caves",
             "Gateway to Nothing",
             "Paths of Sludge"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
-        "Storage": [],
-        "Emeralds": true
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Canyon High Path": {
         "Routes": [
@@ -6278,7 +7082,9 @@
             "Ore",
             "Fish"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Rymek East Upper": {
         "Routes": [
@@ -6287,13 +7093,15 @@
             "Desert East Lower"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Cinfras Thanos Transition": {
         "Routes": [
@@ -6310,10 +7118,11 @@
             "Wood",
             "Fish",
             "Crops",
-            "Swamp Mountain Transition Upper",
-            "Thanos Exit"
+            "Swamp Mountain Transition Mid-Upper"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Fortress North": {
         "Routes": [
@@ -6329,12 +7138,11 @@
             "Ore",
             "Wood",
             "Fish",
-            "Crops",
-            "Orc Lake",
-            "Nether Gate",
-            "Elkurn"
+            "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Santa's Hideout": {
         "Routes": [
@@ -6344,14 +7152,16 @@
         "Resources": [
             "Ore",
             "Wood",
-            " Fish",
-            " Crops"
+            "Fish",
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
             "Fish"
         ],
-        "Emeralds": false
+        "Emeralds": false,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Path To Ozoth's Spire Mid": {
         "Routes": [
@@ -6368,7 +7178,9 @@
             "Fish",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Nivla Woods Entrance": {
         "Routes": [
@@ -6383,12 +7195,11 @@
         "Storage": [
             "Emeralds",
             "Wood",
-            "Crops",
-            "Hive South",
-            "Ore",
-            "Fish"
+            "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Path to Ahmsord Lower": {
         "Routes": [
@@ -6401,12 +7212,11 @@
         ],
         "Storage": [
             "Emeralds",
-            "Wood",
-            "Lava Lake",
-            "Ore",
-            "Sky Castle"
+            "Wood"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Path to Ahmsord Upper": {
         "Routes": [
@@ -6418,11 +7228,11 @@
         ],
         "Storage": [
             "Emeralds",
-            "Wood",
-            "Swamp Mountain Transition Lower",
-            "Fish"
+            "Wood"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Canyon Mountain South": {
         "Routes": [
@@ -6437,7 +7247,9 @@
             "Ore",
             "Fish"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Air Temple Lower": {
         "Routes": [
@@ -6448,8 +7260,8 @@
         "Resources": [
             "Ore",
             "Wood",
-            " Fish",
-            " Crops"
+            "Fish",
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -6458,7 +7270,9 @@
             "Fish",
             "Crops"
         ],
-        "Emeralds": false
+        "Emeralds": false,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Fallen Village": {
         "Routes": [
@@ -6475,7 +7289,9 @@
             "Wood",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Entrance to Kander": {
         "Routes": [
@@ -6494,17 +7310,25 @@
             "Fish",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
-    "Thanos Exit ": {
+    "Thanos Exit": {
         "Routes": [
             "Thanos Exit Upper"
         ],
         "Resources": [
             "Ore"
         ],
-        "Storage": [],
-        "Emeralds": true
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Fish"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Nemract Road": {
         "Routes": [
@@ -6516,17 +7340,18 @@
             "Nemract Quarry"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
             "Ore",
             "Wood",
             "Fish",
-            "Crops",
-            "Jungle Lake"
+            "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Angel Refuge": {
         "Routes": [
@@ -6534,15 +7359,15 @@
             "Molten Reach"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
-            "Wood",
-            "Twain Lake",
-            "Fish"
+            "Wood"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Efilim Village": {
         "Routes": [
@@ -6556,11 +7381,11 @@
         "Storage": [
             "Emeralds",
             "Wood",
-            "Crops",
-            "Swamp Mountain Transition Upper",
-            "Ore"
+            "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Nesaak Plains Mid North West": {
         "Routes": [
@@ -6574,7 +7399,9 @@
             "Emeralds",
             "Wood"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Nemract Cathedral": {
         "Routes": [
@@ -6584,7 +7411,7 @@
             "Ancient Nemract"
         ],
         "Resources": [
-            " Fish"
+            "Fish"
         ],
         "Storage": [
             "Emeralds",
@@ -6593,7 +7420,9 @@
             "Fish",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Ragni Plains": {
         "Routes": [
@@ -6603,7 +7432,7 @@
             "Coastal Trail"
         ],
         "Resources": [
-            " Crops"
+            "Crops"
         ],
         "Storage": [
             "Emeralds",
@@ -6611,7 +7440,9 @@
             "Crops",
             "Light Realm East Mid"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
     "Old Crossroads South": {
         "Routes": [
@@ -6631,9 +7462,11 @@
             "Fish",
             "Crops"
         ],
-        "Emeralds": true
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     },
-    "Little Wood ": {
+    "Little Wood": {
         "Routes": [
             "Time Valley",
             "South Pigmen Ravines"
@@ -6641,7 +7474,15 @@
         "Resources": [
             "Wood"
         ],
-        "Storage": [],
-        "Emeralds": true
+        "Storage": [
+            "Emeralds",
+            "Ore",
+            "Wood",
+            "Fish",
+            "Crops"
+        ],
+        "Emeralds": true,
+        "DoubleEmerald": false,
+        "DoubleResource": false
     }
 }
