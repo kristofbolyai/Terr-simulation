@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>1.20 territory simulation</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap" rel="stylesheet">
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='upgrades.js'></script>
+    <script src='res.js'></script>
+    <script src='territories.js'></script>
+    <script src='main.js'></script>
+</head>
+
+<body>
+    <div class="box">
+        <div class="btnmain header">
+            <h1 class="title">Territory simulation tool</h1>
+
+            <div class="posleft">
+                <button class="btn-1" onclick="loadFromClipboard()">Load territories from clipboard</button>
+            </div>
+            <div class="posright">
+                <button class="btn-1" onclick="copysim()">Copy simulation data</button>
+                <button class="btn-1" onclick="pastesim()">Paste simulation data</button>
+            </div>
+            <hr style="width: 100%; color: black; height: 1px; background-color:white;" />
+        </div>
+
+
+        <div class="cont">
+            <div class="col left">
+                <h2>Territories</h2>
+                <div class="posleft">
+                    <button class="btn-1 sel" onclick="selall()">Select all</button>
+                </div>
+
+                <div class="posright">
+                    <button class="btn-1 sel" onclick="unsellall()">Unselect all</button>
+                </div>
+
+                <div id="territories"></div>
+            </div>
+
+            <div class="col mid">
+                <h2>Upgrades</h2>
+                <h3>Guild Tower</h3>
+                <div id="guildtower"></div>
+                <hr style="width: 100%; color: black; height: 1px; background-color:white;" />
+                <h3>Storage</h3>
+                <div id="storage"></div>
+                <hr style="width: 100%; color: black; height: 1px; background-color:white;" />
+                <h3>Bonuses</h3>
+                <div id="bonuses"></div>
+            </div>
+
+            <div class="col right">
+                <h2>Guild Tower</h2>
+                <h2 style="font-size: 160%;"><span id="statterr"></span></h2>
+                <h2 style="font-size: 160%;"><span id="close"></span></h2>
+
+                <h3>Damage: <span id="damage"></span></h3>
+                <h3>Attack speed: <span id="attack"></span></h3>
+                <h3>Health: <span id="health"></span></h3>
+                <h3>Defence: <span id="defence"></span></h3>
+                <h2>Bonus</h2>
+                <div id="statbonus"></div>
+                <hr style="width: 100%; color: black; height: 1px; background-color:white;" />
+                <h2>Overall Storage</h2>
+                <div id="statstorage"></div>
+                <hr style="width: 100%; color: black; height: 1px; background-color:white;" />
+                <h2>Overall upkeep cost</h2>
+                <h3>Emeralds: <span id="Emeralds"></span></h3>
+                <h3>Ore: <span id="Ore"></span></h3>
+                <h3>Wood: <span id="Wood"></span></h3>
+                <h3>Crops: <span id="Crops"></span></h3>
+                <h3>Fish: <span id="Fish"></span></h3>
+            </div>
+        </div>
+    </div>
+    <footer>Made by bolyai</footer>
+</body>
+
+</html>
